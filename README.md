@@ -14,7 +14,13 @@ FORMAT: **TITLE**, venue, 1st author.
 ## Hardware
 ## Software
 ### Scheduling
+#### paper
+#### slide
+#### blog
 ### Clock synchronization
+#### paper
+#### slide
+#### blog
 ### End-system packet I/O
 #### paper
 1. **Commodity Packet Capture Engines: Tutorial, Cookbook and Applicability**, IEEE Communications Surveys & Tutorials 2015, Victor Moreno. [**pdf**](https://ieeexplore.ieee.org/document/7101227)
