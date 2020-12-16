@@ -1,5 +1,5 @@
 # reading-list
-A recommended reading list in FAST group 
+A recommended reading list in FAST group
 Format: **TITLE**, venue, 1st author. 
 - [reading-list](#reading-list)
   - [Hardware](#hardware)
