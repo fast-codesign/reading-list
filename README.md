@@ -6,11 +6,17 @@ FORMAT: **TITLE**, venue, 1st author.
   - [Hardware](#hardware)
   - [Software](#software)
     - [Scheduling](#scheduling)
-    - [Clock synchronization](#clock-synchronization)
-    - [End-system packet I/O](#end-system-packet-io)
       - [paper](#paper)
       - [slide](#slide)
       - [blog](#blog)
+    - [Clock synchronization](#clock-synchronization)
+      - [paper](#paper-1)
+      - [slide](#slide-1)
+      - [blog](#blog-1)
+    - [End-system packet I/O](#end-system-packet-io)
+      - [paper](#paper-2)
+      - [slide](#slide-2)
+      - [blog](#blog-2)
 ## Hardware
 ## Software
 ### Scheduling
