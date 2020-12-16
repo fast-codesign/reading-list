@@ -1,7 +1,15 @@
 # reading-list
 A recommended reading list in FAST group 
 Format: **TITLE**, venue, 1st author. 
-[TOC]
+- [reading-list](#reading-list)
+  - [Hardware](#hardware)
+  - [Software](#software)
+    - [Scheduling](#scheduling)
+    - [Clock synchronization](#clock-synchronization)
+    - [End-system packet I/O](#end-system-packet-io)
+      - [paper](#paper)
+      - [slide](#slide)
+      - [blog](#blog)
 ## Hardware
 ## Software
 ### Scheduling
@@ -14,5 +22,3 @@ Format: **TITLE**, venue, 1st author.
 1. [**Monitoring and Tuning the Linux Networking Stack: Sending Data**](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 2. [**Monitoring and Tuning the Linux Networking Stack: Receiving Data**](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
 3. [**Queueing in the Linux Network Stack**](https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/)
-
-
