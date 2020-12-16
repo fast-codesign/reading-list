@@ -1,6 +1,6 @@
 # reading-list
-A recommended reading list in FAST group
-Format: **TITLE**, venue, 1st author. 
+A recommended reading list in FENGLIN group.
+FORMAT: **TITLE**, venue, 1st author.
 - [reading-list](#reading-list)
   - [Hardware](#hardware)
   - [Software](#software)
