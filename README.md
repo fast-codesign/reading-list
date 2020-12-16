@@ -1,6 +1,7 @@
 # reading-list
 A recommended reading list in FAST group 
 Format: **TITLE**, venue, 1st author. 
+[TOC]
 ## Hardware
 ## Software
 ### Scheduling
