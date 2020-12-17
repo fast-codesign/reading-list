@@ -13,6 +13,7 @@ FORMAT: **TITLE**, venue, 1st author.
 
 1. **hXDP: Efficient Software Packet Processor on FPGA NICs**, OSDI 2020, Marco Brunella, etc. [pdf](https://www.usenix.org/system/files/osdi20-brunella.pdf)
 2. **FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design**, ALPLOS 2020, Sagar Karandikar (UC Berkeley). [pdf](https://people.eecs.berkeley.edu/~alonamid/papers/asplos2020-fireperf.pdf)
+3. **nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency**, Arxiv 2020, Stephen Ibanez (Stanford). [pdf](https://arxiv.org/pdf/2010.12114.pdf)
 
 #### slide
 
