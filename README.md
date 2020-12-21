@@ -27,6 +27,13 @@ FORMAT: **TITLE**, venue, 1st author.
 
 1. **Programmable Calendar Queues for High-speed Packet Scheduling**, NSDI 2020, Sharma (NYU). [pdf](https://cs.nyu.edu/~anirudh/calendar_queues.pdf) 
 
+### TSN data plane
+
+#### data plane abstraction paper
+
+1. **OpenFunction: An Extensible Data Plane Abstraction Protocol for Platform-Independent Software-Defined Middleboxes**, TON 2018, Chen Tian (Nanjing University). [pdf](https://cs.nju.edu.cn/tianchen/lunwen/2018/openfunction-tnet.pdf) 
+2. **StreaMon: A Data-Plane Programming Abstraction for Software-Defined Stream Monitoring**, TDSC 2013, Giuseppe Bianchi (University of Rome Tor Vergata). [pdf](https://arxiv.org/pdf/1311.2442.pdf) 
+
 ## Software
 ### Scheduling
 #### paper
