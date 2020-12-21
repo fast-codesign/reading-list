@@ -3,7 +3,29 @@ A recommended reading list in FENGLIN group.
 
 FORMAT: **TITLE**, venue, 1st author.
 
-[toc]
+- [reading-list](#reading-list)
+  - [Hardware](#hardware)
+    - [Architecture Design](#architecture-design)
+      - [paper](#paper)
+      - [slide](#slide)
+      - [blog](#blog)
+    - [Packet/Flow Scheduling](#packetflow-scheduling)
+      - [Paper](#paper-1)
+    - [TSN data plane](#tsn-data-plane)
+      - [data plane abstraction paper](#data-plane-abstraction-paper)
+  - [Software](#software)
+    - [Scheduling](#scheduling)
+      - [paper](#paper-2)
+      - [slide](#slide-1)
+      - [blog](#blog-1)
+    - [Clock synchronization](#clock-synchronization)
+      - [paper](#paper-3)
+      - [slide](#slide-2)
+      - [blog](#blog-2)
+    - [End-system packet I/O](#end-system-packet-io)
+      - [paper](#paper-4)
+      - [slide](#slide-3)
+      - [blog](#blog-3)
 
 ## Hardware
 
