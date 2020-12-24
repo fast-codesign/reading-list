@@ -6,10 +6,8 @@ FORMAT: **TITLE**, venue, 1st author.
 - [reading-list](#reading-list)
   - [Hardware](#hardware)
     - [Architecture Design](#architecture-design)
-      - [paper](#paper)
-      - [slide](#slide)
-      - [blog](#blog)
-    - [Packet/Flow Scheduling](#packetflow-scheduling)
+    - [Simulation Framework](#packetflow-scheduling)
+    - [Packet/Flow Scheduling](#Simulation-Framework)
       - [Paper](#paper-1)
     - [TSN data plane](#tsn-data-plane)
       - [data plane abstraction paper](#data-plane-abstraction-paper)
@@ -34,14 +32,19 @@ FORMAT: **TITLE**, venue, 1st author.
 #### paper
 
 1. **hXDP: Efficient Software Packet Processor on FPGA NICs**, OSDI 2020, Marco Brunella, etc. [pdf](https://www.usenix.org/system/files/osdi20-brunella.pdf)
-2. **FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design**, ALPLOS 2020, Sagar Karandikar (UC Berkeley). [pdf](https://people.eecs.berkeley.edu/~alonamid/papers/asplos2020-fireperf.pdf)
-3. **nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency**, Arxiv 2020, Stephen Ibanez (Stanford). [pdf](https://arxiv.org/pdf/2010.12114.pdf)
-
-#### slide
+3. **nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency**, Arxiv 2020, Stephen Ibanez (Stanford). [pdf](https://arxiv.org/pdf/2010.12114.pdf), [code](https://github.com/l-nic)
+3. **PANIC: A High-Performance Programmable NIC for Multi-tenant Networks**, OSDI 2020, Jiaxin Lin (Wisconsin-Madison). [pdf](https://www.usenix.org/system/files/osdi20-lin.pdf), [sides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_lin.pdf), [code
 
 #### blog
 
 1. [What Does RISC and CISC Mean in 2020?](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de)
+
+### Simulation Framework
+
+#### paper
+
+1. **FireSim: FPGA-Accelerated Cycle-Exact Scale-Out System Simulation in the Public Cloud**, ISCA 2018, Sagar Karandikar (UC Berkeley). [pdf](https://sagark.org/assets/pubs/firesim-isca2018.pdf), [website](https://fires.im/), [slide](http://iscaconf.org/isca2018/slides/1A3.pdf), [code]([github.com/firesim/firesim](https://github.com/firesim/firesim))
+2. **FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design**, ALPLOS 2020, Sagar Karandikar (UC Berkeley). [pdf](https://people.eecs.berkeley.edu/~alonamid/papers/asplos2020-fireperf.pdf)
 
 ### Packet/Flow Scheduling
 
